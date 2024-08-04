@@ -4,7 +4,8 @@
 
 - 🌱 Beginner Go-developer
 - 👯 How to reach me: just write me in TG @Gladyslommy
-- 🤔 My education: Master degree in computional biology, student at Sber programming school 21.  
+- 🤔 My education: Master degree in computional biology, student at Sber programming school 21.
+- 🔥 Work experience: NGS data analysis and pipelines, Sber school projects 
 - ⚡ Out of work: running, swimming, skiing and surfing
 
 <h3 align="left">My tech-stack</h3> 
