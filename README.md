@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h1>
 
 
-- 🌱 Beginner Go-developer
+- 🌱 Beginner System analyst
 - 👯 How to reach me: just write me in TG @Gladyslommy
 - 🤔 My education: Master degree in computional biology, student at Sber programming school 21.
 - 🔥 Work experience: NGS data analysis and pipelines, Sber school projects 
